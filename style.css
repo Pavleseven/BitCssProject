@@ -260,7 +260,11 @@ h4 {
 }
 .green div {
   display: flex;
+
   gap: 0.5rem;
+}
+.green div p {
+  font-size: 14px;
 }
 .blue div {
   display: flex;
